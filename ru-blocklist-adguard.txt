@@ -1,3 +1,4 @@
+! Title: RU blocklist (AdGuard Home)
 ||1c.ru^
 ||2gis.ae^
 ||2gis.am^
